@@ -1,4 +1,4 @@
-Ripple-AI
+# Ripple-AI
 
 **Narrative Intelligence & Lore-Aware Storytelling Workspace**  
 *Keep every detail, character, timeline, and chapter connected.*
@@ -7,6 +7,17 @@ Ripple-AI
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python%203.11+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![RAG](https://img.shields.io/badge/RAG-Hybrid%20Dense%20%2B%20BM25%20%2B%20Graph-8b5cf6)](#-rag--narrative-architecture)
 [![Gemini](https://img.shields.io/badge/LLM-Google%20Gemini%20%2F%20Claude%20%2F%20OpenAI-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
+[![Demo Video](https://img.shields.io/badge/YouTube-Live%20Demo%20Video-red?logo=youtube)](https://youtu.be/E5JnvaUqCVE)
+
+---
+
+## 🎬 Live Demo & Video Walkthrough
+
+Watch **Ripple AI** in action across universe tracking, scene ingestion, hybrid retrieval, and interactive CanonGraph exploration:
+
+[![Ripple AI Demo Video](https://img.youtube.com/vi/E5JnvaUqCVE/maxresdefault.jpg)](https://youtu.be/E5JnvaUqCVE)
+
+▶️ **[Watch the full video walkthrough on YouTube: https://youtu.be/E5JnvaUqCVE](https://youtu.be/E5JnvaUqCVE)**
 
 ---
 
